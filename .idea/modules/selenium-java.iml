@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../selenium-java">
       <excludeFolder url="file://$MODULE_DIR$/../../selenium-java/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../selenium-java/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../selenium-java/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
