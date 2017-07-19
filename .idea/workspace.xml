@@ -49,21 +49,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroupCreationTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GroupCreationTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupCreationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            <state relative-caret-position="110">
+              <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
               <folding>
-                <element signature="e#1033#1034#0" expanded="true" />
-                <element signature="e#1098#1099#0" expanded="true" />
-                <element signature="e#1141#1142#0" expanded="true" />
-                <element signature="e#1198#1199#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1302#1303#0" expanded="true" />
+                <element signature="e#1357#1358#0" expanded="true" />
+                <element signature="e#1404#1405#0" expanded="true" />
+                <element signature="e#1429#1430#0" expanded="true" />
+                <element signature="e#1472#1473#0" expanded="true" />
+                <element signature="e#1537#1538#0" expanded="true" />
+                <element signature="e#1573#1574#0" expanded="true" />
+                <element signature="e#1630#1631#0" expanded="true" />
+                <element signature="e#1666#1667#0" expanded="true" />
+                <element signature="e#1727#1728#0" expanded="true" />
+                <element signature="e#1766#1767#0" expanded="true" />
+                <element signature="e#1827#1828#0" expanded="true" />
                 <element signature="e#1868#1869#0" expanded="true" />
-                <element signature="e#1929#1930#0" expanded="true" />
-                <element signature="e#2394#2395#0" expanded="true" />
-                <element signature="e#2449#2450#0" expanded="true" />
+                <element signature="e#1904#1905#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupDeletionTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -369,14 +396,15 @@
         <option value="$PROJECT_DIR$/selenium-java/build.gradle" />
         <option value="$PROJECT_DIR$/selenium-java/src/test/java/TestCreate.java" />
         <option value="$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java" />
-        <option value="$PROJECT_DIR$/selenium-java/src/test/java/TestBase.java" />
-        <option value="$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest.java" />
         <option value="$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest1.java" />
+        <option value="$PROJECT_DIR$/selenium-java/src/test/java/GroupCreationTestChrome.java" />
+        <option value="$PROJECT_DIR$/selenium-java/src/test/java/TestBase.java" />
         <option value="$PROJECT_DIR$/selenium-java/src/test/java/GroupCreationTest.java" />
+        <option value="$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="2" />
     <option name="y" value="1" />
     <option name="width" value="1268" />
@@ -398,8 +426,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -431,6 +457,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -458,7 +486,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.GroupCreationTest.groupCreationTest">
+  <component name="RunManager" selected="TestNG.GroupDeletionTest.groupDeletionTest">
     <configuration name="GroupCreationTest.groupCreationTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="selenium-java_test" />
@@ -801,9 +829,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.GroupCreationTest.groupCreationTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.GroupDeletionTest1.GroupDeletionTest1" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.GroupDeletionTest.groupDeletionTest" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.GroupDeletionTest.groupDeletionTest" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.GroupCreationTest.groupCreationTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.GroupDeletionTest1.GroupDeletionTest1" />
         <item index="3" class="java.lang.String" itemvalue="TestNG.GroupDeletionTest" />
         <item index="4" class="java.lang.String" itemvalue="TestNG.TestCreateNewGroup" />
       </list>
@@ -823,22 +851,22 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupCreationTest_groupCreationTest - 2017.07.18 at 17h 35m 49s.xml">
+    <history-entry file="GroupCreationTest_groupCreationTest - 2017.07.19 at 11h 51m 39s.xml">
       <configuration name="GroupCreationTest.groupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="GroupCreationTest_groupCreationTest - 2017.07.18 at 18h 05m 02s.xml">
+    <history-entry file="GroupCreationTest_groupCreationTest - 2017.07.19 at 12h 06m 13s.xml">
       <configuration name="GroupCreationTest.groupCreationTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupDeletionTest - 2017.07.16 at 20h 18m 39s.xml">
-      <configuration name="GroupDeletionTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupDeletionTest - 2017.07.16 at 20h 29m 50s.xml">
-      <configuration name="GroupDeletionTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="GroupDeletionTest_groupDeletionTest - 2017.07.16 at 20h 22m 58s.xml">
-      <configuration name="GroupDeletionTest.groupDeletionTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="GroupDeletionTest_groupDeletionTest - 2017.07.16 at 20h 41m 32s.xml">
+      <configuration name="GroupDeletionTest.groupDeletionTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupDeletionTest_groupDeletionTest - 2017.07.19 at 10h 55m 36s.xml">
+      <configuration name="GroupDeletionTest.groupDeletionTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupDeletionTest_groupDeletionTest - 2017.07.19 at 11h 52m 10s.xml">
+      <configuration name="GroupDeletionTest.groupDeletionTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupDeletionTest_groupDeletionTest - 2017.07.19 at 12h 06m 38s.xml">
       <configuration name="GroupDeletionTest.groupDeletionTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="TestCreateNewGroup - 2017.07.16 at 19h 41m 25s.xml">
@@ -855,7 +883,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="1" width="1268" height="735" extended-state="1" />
+    <frame x="2" y="1" width="1268" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -871,7 +899,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22433774" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11009934" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21320182" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -911,18 +939,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java">
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupCreationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        <state relative-caret-position="594">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -935,30 +955,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestBase.java" />
     <entry file="file://$PROJECT_DIR$/selenium-java/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -967,30 +965,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="25" column="25" lean-forward="true" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestBase.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest1.java" />
     <entry file="file://$PROJECT_DIR$/selenium-java/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -999,14 +976,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java">
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestBase.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest1.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="47" />
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java" />
     <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreate.java" />
     <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupCreationTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1023,14 +1004,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="47" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java" />
     <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreate.java" />
     <entry file="file://$PROJECT_DIR$/selenium-java/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -1040,68 +1014,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java">
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreate.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest1.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="66" lean-forward="false" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+        <state relative-caret-position="308">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreate.java" />
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest.java">
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupCreationTestChrome.java" />
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupCreationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="19" column="22" lean-forward="false" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        <state relative-caret-position="110">
+          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/TestCreateNewGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupCreationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="858">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
           <folding>
-            <element signature="e#1033#1034#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-            <element signature="e#1141#1142#0" expanded="true" />
-            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1302#1303#0" expanded="true" />
+            <element signature="e#1357#1358#0" expanded="true" />
+            <element signature="e#1404#1405#0" expanded="true" />
+            <element signature="e#1429#1430#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1537#1538#0" expanded="true" />
+            <element signature="e#1573#1574#0" expanded="true" />
+            <element signature="e#1630#1631#0" expanded="true" />
+            <element signature="e#1666#1667#0" expanded="true" />
+            <element signature="e#1727#1728#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
             <element signature="e#1868#1869#0" expanded="true" />
-            <element signature="e#1929#1930#0" expanded="true" />
-            <element signature="e#2394#2395#0" expanded="true" />
-            <element signature="e#2449#2450#0" expanded="true" />
+            <element signature="e#1904#1905#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium-java/src/test/java/GroupDeletionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
