@@ -13,15 +13,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.*;
 import static org.openqa.selenium.OutputType.*;
 
-public class GroupCreationTest extends TestBase{
+public class ContactDeletionTest extends TestBase{
 
     @Test
-    public void groupCreationTest() {
-        goToGroupsPage();
-        initGroupCreation();
-        fillGroupForm();
-        submitGroupsCreation();
-        returnGroupsPage();
+    public void contactDeletionTest() {
+        contactDelition();
     }
 
 }

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-class.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-class_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-class_main.iml" group="selenium-class" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-class_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-class_test.iml" group="selenium-class" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-java.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-java_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-java_main.iml" group="selenium-java" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-java_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-java_test.iml" group="selenium-java" />
